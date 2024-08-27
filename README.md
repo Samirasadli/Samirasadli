@@ -1,15 +1,19 @@
-# Hi there, I'm Samir Asadli 👋
+## Hi there, I'm Samir Asadli 👋
 
-Welcome to my GitHub profile! I'm passionate about technology and constantly expanding my skills.  My next big goal? Earning my RHCE certification! 
+Welcome to my GitHub profile! I'm passionate about technology and constantly expanding my skills. My next big goal? Earning my RHCE certification!
 
-## 🚀 About Me
+🚀 **About Me**
 
-- 🔧 **Interests:**
-  - Red Hat Certified System Administrator (RHCSA)
-  - Prompt Engineering
+* **Red Hat Certified System Administrator (RHCSA)**
 
-- 🌱 **Currently Learning:**
-  - Deepening my Red Hat Linux knowledge & skills
+🔧 **Interests:**
+
+* Prompt Engineering
+* Python scripting (especially with AI assistance to streamline my workflow) 
+
+🌱 **Currently Learning:**
+
+* Deepening my Red Hat Linux knowledge & skills
 
 - 🌐 **Connect with Me:**
   - [LinkedIn](https://www.linkedin.com/in/samirasadlii/)
